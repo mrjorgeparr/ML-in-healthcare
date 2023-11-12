@@ -3,11 +3,11 @@ Repository containing code corresponding to the lab assignments and final projec
 
 ## Lab 1
 
-Implementation of an MVAE (multi-view variational autoencoder), capable of learning meaningful, disentangled latent representations from multiple views or modalities.
+Implementation of an MVAE (multi-view variational autoencoder), capable of learning meaningful, disentangled latent representations from multiple image views. The approach implement supports image processing however it can be easily extended to multi-modal data through contextual embeddings.
 
 ## Lab 2
 
-Complete survival analysis project using Kaplan-Meier and Cox-Hazard models on latent representations of data obtained through UMAP based on subgroups found through mixture models maximizing bayesian information criterion
+Complete survival analysis project using Kaplan-Meier and Cox-Hazard models on latent representations of data obtained through UMAP based on subgroups found through mixture models maximizing BIC.
 
 
 ## Final project
