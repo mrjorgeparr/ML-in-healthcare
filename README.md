@@ -3,7 +3,7 @@ Repository containing code corresponding to the lab assignments and final projec
 
 ## Lab 1
 
-Implementation of an MVAE (multi-view variational autoencoder), capable of learning meaningful, disentangled latent representations from multiple image views. The approach implement supports image processing however it can be easily extended to multi-modal data through contextual embeddings.
+Implementation of an MVAE (multi-view variational autoencoder), capable of learning meaningful, disentangled latent representations from multiple image views. The approach implemented supports image processing however it can be easily extended to multi-modal data through contextual embeddings.
 
 ## Lab 2
 
