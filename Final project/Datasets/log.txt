@@ -1,0 +1,5 @@
+
+	DOCUMENT TO KEEP TRACK OF DIFFERENT DATASET VERSIONS
+
+	+ Eureca2.0: 94D dataset, contains important feature information such as type, suicide, suicidal_ideation, filtered out BIS and 
+	BDHI scales using mutual information + bottom 30 variables which contain polymorphisms.
