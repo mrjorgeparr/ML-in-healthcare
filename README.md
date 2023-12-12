@@ -17,8 +17,23 @@ Main code is located inside the notebook
  + Title: **Unsupervised analysis of the relationship between various genetic polymorphisms and their relationship to impulse-aggresiveness personality traits**
 
 
- Using a highly sparse database containing various information regarding suicidal ideation, abuse and other information of the same nature, as well as genetic polymorphisms , we perform a series of tasks to maximize the clinical insight extracted. Those tasks were 
-    1. Dimensionality reduction and clustering based on statistical criteria, helpful for patient profiling.
-    2. Frequent itemsets of polymorphisms for personality types. To the extent of our data, since imputated data lacks clinical value, we analyzed the frequent of polymorphisms (of different lengths)itemsets associated to different personality types are. This help in furthering the understanding of the distribution of this DNA mutations and how they can affect the patient.
-    3. Analysis of feature importances for detecting which of the features plays a larger role in determining the personality type considering a supervised learning task with the help of random forest.
-    4. Survival analysis based on polymorphisms, after dimensionality reduction and clustering, survival analysis methods are programmed to improve the understanding and the impact of these polymorphisms in possible suicidal ideation. 
+
+1. **Dimensionality Reduction and Clustering:**
+   - Utilize statistical criteria for dimensionality reduction and clustering to create patient profiles.
+   - Enhance our understanding of the patient population by identifying patterns in the data.
+
+2. **Frequent Itemsets of Polymorphisms for Personality Types:**
+   - Analyze frequent itemsets of genetic polymorphisms associated with various personality types.
+   - Considering the limitations of imputed data in clinical value, focus on polymorphisms of different lengths.
+   - Contribute to the comprehension of DNA mutation distribution and its impact on patient personality.
+
+3. **Feature Importance Analysis:**
+   - Employ a supervised learning approach using a random forest to determine feature importances.
+   - Identify the key features that play a significant role in determining personality types.
+   - Enhance interpretability and insights for clinical decision-making.
+
+4. **Survival Analysis based on Polymorphisms:**
+   - Implement survival analysis methods after dimensionality reduction and clustering.
+   - Explore the impact of genetic polymorphisms on the likelihood of suicidal ideation.
+   - Improve our understanding of the long-term effects of these polymorphisms and their potential clinical implications.
+
